@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **CristianLeit/CristianLeit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,13 +12,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## ✨ Eai! Meu nome é Cristian!  ✨
+## ✌🏼 Eai! Sou o Cristian!  
 
-Sou um desenvolvedor brasileiro que estar começando a entender como funciona esse mundo da programação, ultimamente estou aprendendo tudo que posso de Javascript e aplicando o máximo que puder, eu sei aqui anda parado mas logo terei mais coisas aqui.
+Sou um desenvolvedor brasileiro que estar começando a entender como funciona esse mundo da programação, ultimamente estou aprendendo tudo que posso de Javascript e aplicando o máximo que puder, eu sei que aqui anda parado mas logo terei mais coisas aqui.
 
 #
 
-## 📖  Oque estou estudando ⭐️
+## 📖  Oque estou estudando 
 <a href="https://code.visualstudio.com/"><img height= "35" src= "https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a>
 <a href="https://www.javascript.com/"><img height= "35" src= "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></a>
 <a href="https://developer.mozilla.org/docs/Web/HTML"><img height= "35" src= "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
