@@ -12,9 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## ✌🏼 Eai! Sou o Cristian!  
+## ✌🏼 Eai, me chamo Cristian 
 
-Sou um desenvolvedor brasileiro que estar começando a entender como funciona esse mundo da programação, ultimamente estou aprendendo tudo que posso de Javascript e aplicando o máximo que puder, eu sei que aqui anda parado mas logo terei mais coisas aqui.
+Sou um desenvolvedor brasileiro que estar começando a entender como funciona esse mundo da programação, ultimamente estou aprendendo tudo que posso de Javascript e aplicando o máximo que puder, eu sei que aqui anda parado mas logo terei mais coisas aqui. Fique a vontade!
 
 #
 
