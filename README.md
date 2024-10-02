@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 ## Aqui se começa o interminável problema de resolução infinita 🩴🥾👞👟
 
-Resolver problemas é o ato, a sentença, a habilidade que nós foi dado, herdado e atribuído desde quando nós nascemos aqui nesse mundo. E como retribuição do que foi feito para mim, aqui esta uma resolução de problema que poderá ser util para você ou alguém, assim como foi para mim.
+Resolver problemas é o ato, a sentença, a habilidade que nós foi dado, herdado e atribuído desde quando nós nascemos aqui nesse mundo. E como retribuição do que foi feito para mim, aqui esta uma resolução que poderá ser util para você ou alguém, assim como foi para mim.
 
 #
 
