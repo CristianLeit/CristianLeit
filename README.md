@@ -12,13 +12,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## ✌🏼 Eai, me chamo Cristian 
+## Aqui se começa o interminável problema de resolução infinita 🩴🥾👞👟
 
-Sou um desenvolvedor brasileiro que estar começando a entender como funciona esse mundo da programação, ultimamente estou aprendendo tudo que posso de Javascript e aplicando o máximo que puder, eu sei que aqui anda parado mas logo terei mais coisas aqui. Fique a vontade!
+Resolver problemas é o ato, a sentença, a habilidade que nós foi dado, herdado e atribuído desde quando nós nascemos aqui nesse mundo, e como retribuição do que foi feito para mim aqui esta um presente para todos vocês.
 
 #
 
-## 📖  Oque estou estudando 
+## 📖 Ferramentas
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Icon-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
