@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 
 ***Solving problems is the act, the sentence, the skill that was given, inherited and attributed to us since we were born here in this world. And as a reward for what was done for me, here is a resolution that may be useful to you or someone else just as it was for me.***
 #
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CristianLeit&hide=css,scss,html&theme=tokyonight)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CristianLeit&hide=css,scss,html,&theme=tokyonight&langs_count=3)
+  ![Top Langs](https://github-readme-stats.vercel.app/api?username=CristianLeit&theme=tokyonight&layout=compact)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Icon-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
