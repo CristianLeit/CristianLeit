@@ -12,13 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Aqui se começa o interminável problema de resolução infinita 🩴🥾👞👟
+## 👞 Here begins the endless problem of infinite resolution  👟
 
-Resolver problemas é o ato, a sentença, a habilidade que nós foi dado, herdado e atribuído desde quando nós nascemos aqui nesse mundo. E como retribuição do que foi feito para mim, aqui esta uma resolução que poderá ser util para você ou alguém, assim como foi para mim.
-
+***Solving problems is the act, the sentence, the skill that was given, inherited and attributed to us since we were born here in this world. And as a reward for what was done for me, here is a resolution that may be useful to you or someone else just as it was for me.***
 #
-
-## 📖 Ferramentas
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CristianLeit&hide=css,scss,html&theme=tokyonight)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Icon-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
