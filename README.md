@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 #
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CristianLeit&hide=css,scss,html,&theme=tokyonight&langs_count=3)
   ![Top Langs](https://github-readme-stats.vercel.app/api?username=CristianLeit&theme=tokyonight&layout=compact)
-
+ <!-- 
 <div style="display: inline_block"><br>
   <img align="center" alt="Icon-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Icon-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -43,7 +43,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wor
 
 
   
- <!-- 
+
 
 ## 📖  minhas ambições
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" />
