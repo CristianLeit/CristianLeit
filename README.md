@@ -21,7 +21,7 @@
 
 </div>
 
-<h3><code>gabriel@github ~ $ cat about.md</code></h3>
+<h3><code>CristianLeit@github ~ $ cat about.md</code></h3>
 
 I build and maintain the backend and frontend of a **last-mile logistics platform** running in production:
 REST APIs in **Node.js/Express**, **PostgreSQL** with Sequelize, background jobs on **Redis**,
@@ -40,7 +40,7 @@ Most of my work sits where **money, identity and legacy code** meet:
 
 Graduated in Systems Analysis & Development and in Computer Engineering.
 
-<h3><code>gabriel@github ~ $ ls ~/stack</code></h3>
+<h3><code>CristianLeit@github ~ $ ls ~/stack</code></h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,ts,js,postgres,mysql,java,react,jquery,cs,dotnet,docker,git&perline=8&theme=dark" alt="Node.js, Express, TypeScript, JavaScript, PostgreSQL, MySQL, Java, Angular, React, .NET, Docker, Git">
