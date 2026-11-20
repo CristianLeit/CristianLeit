@@ -1,14 +1,11 @@
 <div align="center">
 
-<h3><code>CristianLeit@github ~ $ ./contributions.sh</code></h3>
-<img src="./contrib-heatmap.svg" width="860" alt="Contribution heatmap for the last year, refreshed daily" />
-
 <br><br>
 
 <h3><code>CristianLeit@github ~ $ whoami</code></h3>
 <table>
   <tr>
-    <td valign="top"><img src="./terminal-session.svg" width="370" alt="GK monogram and a terminal session: branch, tests for billing, SSO and CSP, push, feature-flag rollout" /></td>
+    <td valign="top"><img src="./terminal-session.svg" width="370" alt=" monogram and a terminal session: branch, tests for billing, SSO and CSP, push, feature-flag rollout" /></td>
     <td valign="top"><img src="./info-card.svg" width="490" alt="Cristian Leite, Back-End Developer. Focus: SSO, application security, billing, async jobs, mobile. Stack: Node.js, TypeScript, PostgreSQL, Angular." /></td>
   </tr>
 </table>
